@@ -16,7 +16,9 @@ gem 'haml-rails'
 
 #Visual design suite
 gem 'bourbon'
+gem 'neat'
 gem 'autoprefixer-rails'
+
 
 
 
