@@ -14,6 +14,10 @@ gem 'responders'
 gem 'react-rails'
 gem 'haml-rails'
 
+#Visual design suite
+gem 'bourbon'
+gem 'autoprefixer-rails'
+
 
 
 group :development, :test do
