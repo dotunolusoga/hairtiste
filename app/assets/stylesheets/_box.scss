@@ -1,0 +1,6 @@
+.box {
+  background-color: $neat-blue;
+  height: 10em;
+
+  @include margin(20px null);
+}
