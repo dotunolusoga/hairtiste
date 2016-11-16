@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'responders'
 gem 'react-rails'
 gem 'haml-rails'
+gem 'devise'
 
 #Visual design suite
 gem 'bourbon'
